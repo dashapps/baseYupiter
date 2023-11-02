@@ -3,9 +3,11 @@
 
 ## Описание
 
+🇺🇸 Starter template for working with Jupyter notebooks and coding with GPT. Perfect for non-technical users.
+
 
 🇷🇺 Стартовая шаблонка для работы с блокнотами Jupyter и кодирования с GPT. Идеально подходит для нетехнических пользователей.
-🇺🇸 Starter template for working with Jupyter notebooks and coding with GPT. Perfect for non-technical users.
+
 
 ## 🚀 Начало работы / Getting Started
 
